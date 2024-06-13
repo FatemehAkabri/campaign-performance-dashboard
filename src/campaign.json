@@ -1,0 +1,82 @@
+{
+  "campaigns": [
+    {
+      "vacancy": "Software Developer",
+      "location": "Amsterdam",
+      "platforms": [
+        {
+          "name": "Meta",
+          "metrics": {
+            "impressions": 25000,
+            "clicks": 350,
+            "applications": 25,
+            "costPerImpression": 0.02,
+            "costPerClick": 0.45,
+            "costPerApplication": 15.0
+          }
+        },
+        {
+          "name": "Google",
+          "metrics": {
+            "impressions": 30000,
+            "clicks": 400,
+            "applications": 30,
+            "costPerImpression": 0.01,
+            "costPerClick": 0.5,
+            "costPerApplication": 20.0
+          }
+        },
+        {
+          "name": "TikTok",
+          "metrics": {
+            "impressions": 20000,
+            "clicks": 300,
+            "applications": 20,
+            "costPerImpression": 0.03,
+            "costPerClick": 0.4,
+            "costPerApplication": 10.0
+          }
+        }
+      ]
+    },
+    {
+      "vacancy": "UX Designer",
+      "location": "Berlin",
+      "platforms": [
+        {
+          "name": "Meta",
+          "metrics": {
+            "impressions": 22000,
+            "clicks": 300,
+            "applications": 15,
+            "costPerImpression": 0.02,
+            "costPerClick": 0.48,
+            "costPerApplication": 16.5
+          }
+        },
+        {
+          "name": "Google",
+          "metrics": {
+            "impressions": 28000,
+            "clicks": 350,
+            "applications": 25,
+            "costPerImpression": 0.01,
+            "costPerClick": 0.55,
+            "costPerApplication": 18.0
+          }
+        },
+        {
+          "name": "TikTok",
+          "metrics": {
+            "impressions": 18000,
+            "clicks": 250,
+            "applications": 18,
+            "costPerImpression": 0.04,
+            "costPerClick": 0.42,
+            "costPerApplication": 11.0
+          }
+        }
+      ]
+    }
+  ]
+}
