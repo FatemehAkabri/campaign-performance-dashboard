@@ -48,7 +48,7 @@ localhost:4500
 you can see the app deployed on heroku from this link
 
 ```
-https://
+https://campaign-performance-dashboard.vercel.app/
 ```
 
 ### Future Goals
