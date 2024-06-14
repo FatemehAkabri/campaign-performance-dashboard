@@ -14,9 +14,9 @@ This project is an example of an interview implementation of a Hiring dashboard 
 
 # Getting started
 
-Install `nodejs` and `yarn` in your machine.
+Install `nodejs` and `npm` in your machine.
 
-Install dependencies with yarn and run the application:
+Install dependencies with npm and run the application:
 
 ```
 npm install
@@ -59,9 +59,7 @@ Adding storybook.
 
 build a small backend to recreate the crud process and authentification process, using NestJs , passportjs, Prisma.
 
-## Architecture of the React project
-
-.jest/ all jest config test providers etc ...
+## Architecture of the Vue project
 
 compnents/ all our components
 
